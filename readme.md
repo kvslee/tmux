@@ -9,6 +9,9 @@ Split
 Navigate
 arrowkey
 
+Resize
+:resize-pane -D -U -L -R
+
 Close 
 exit or Ctrl-d
 
