@@ -12,6 +12,13 @@ Navigate
 Resize
 * :resize-pane -D -U -L -R
 
+Copy/Paste
+1. prefix + [  enter a copy mode
+1. ctrl + space  start highlighting
+1. alt + w  copy selected text
+1. move to the place to place
+1. prefix + ]  paste the copy
+
 Close 
 * exit or Ctrl-d
 
